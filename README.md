@@ -1,5 +1,7 @@
 # Lenguaje, migración e inteligencia artificial generativa (II): infografías
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22956854.svg)](https://doi.org/10.5281/zenodo.22956854)
+
 **Infografías generadas por cuatro herramientas multimodales (ChatGPT, Gemini, Copilot Designer y Qwen) sobre la migración en España, corpus de contraste y codificación verbal y visual**
 
 Conjunto de datos que acompaña a la comunicación «Infografías generadas con inteligencia artificial sobre el lenguaje de la migración: producción y evaluación de doce piezas frente a un patrón de dieciocho recomendaciones», presentada al V Congreso Internacional sobre Humanidades Digitales (2026). Reúne doce infografías generadas con IA en tres condiciones de encargo y su codificación frente a un patrón de dieciocho recomendaciones lingüísticas y a siete dominios metafóricos traducidos a descriptores visuales, junto con la codificación de trece infografías publicadas que sirven de contraste.
@@ -9,6 +11,7 @@ Conjunto de datos que acompaña a la comunicación «Infografías generadas con 
 - **Idioma de las consultas:** español · **Ubicación de acceso:** Madrid (España)
 - **Licencia:** CC BY 4.0 (véase [`LICENSE`](LICENSE))
 - **Versión:** 1.0.0
+- **DOI:** [10.5281/zenodo.22956855](https://doi.org/10.5281/zenodo.22956855) (esta versión) · [10.5281/zenodo.22956854](https://doi.org/10.5281/zenodo.22956854) (todas las versiones)
 
 > Continúa el conjunto de datos *Lenguaje, migración e inteligencia artificial generativa: corpus de respuestas de cuatro asistentes conversacionales*, que estudia el plano verbal. Este repositorio traslada la misma pregunta al plano visual.
 
@@ -90,6 +93,6 @@ El estudio no recaba datos de participantes humanos. Las piezas generadas contie
 
 Referencia en APA (7.ª ed.):
 
-> Hernández Pardo, B. (2026). *Lenguaje, migración e inteligencia artificial generativa (II): infografías generadas por cuatro herramientas multimodales (ChatGPT, Gemini, Copilot Designer y Qwen) y corpus de contraste* (Versión 1.0.0) [Conjunto de datos]. Zenodo. [DOI pendiente de asignación]
+> Hernández Pardo, B. (2026). *Lenguaje, migración e inteligencia artificial generativa (II): infografías generadas por cuatro herramientas multimodales (ChatGPT, Gemini, Copilot Designer y Qwen) y corpus de contraste* (Versión 1.0.0) [Conjunto de datos]. Zenodo. https://doi.org/10.5281/zenodo.22956855
 
-Véase también [`CITATION.cff`](CITATION.cff).
+Para citar el conjunto en cualquier versión, use el DOI general: https://doi.org/10.5281/zenodo.22956854. Véase también [`CITATION.cff`](CITATION.cff).
