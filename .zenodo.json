@@ -1,0 +1,33 @@
+{
+  "title": "Lenguaje, migración e inteligencia artificial generativa (II): infografías generadas por cuatro herramientas multimodales (ChatGPT, Gemini, Copilot Designer y Qwen) y corpus de contraste",
+  "description": "<p>Doce infografías sobre la situación de la migración en España generadas el 3 de septiembre de 2026 con cuatro herramientas de IA generativa multimodal de acceso gratuito (ChatGPT, Gemini, Copilot Designer y Qwen), en tres condiciones de encargo: espontánea, bienintencionada (petición de un lenguaje respetuoso) e informada (patrón de dieciocho recomendaciones). Incluye las piezas, las capturas de pantalla, el registro de condiciones, el protocolo congelado y los <i>prompts</i>, las referencias de un corpus de contraste de trece infografías publicadas por instituciones, medios y entidades del tercer sector (sin las imágenes, por derechos de autor) y la codificación verbal y visual de las veinticinco piezas en dos pasadas asistidas por IA (Claude Sonnet 5 y Claude Opus 5.5), revisadas y arbitradas por la autora. Acompaña a la comunicación presentada al V Congreso Internacional sobre Humanidades Digitales (2026).</p>",
+  "upload_type": "dataset",
+  "language": "spa",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "version": "1.0.0",
+  "keywords": [
+    "migración",
+    "infografía",
+    "inteligencia artificial generativa",
+    "generación de imágenes",
+    "metáfora deshumanizadora",
+    "análisis multimodal",
+    "humanidades digitales"
+  ],
+  "creators": [
+    {
+      "name": "Hernández Pardo, Blanca",
+      "affiliation": "Universidad Pontificia Comillas",
+      "orcid": "0000-0001-9005-7577"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Hernández Pardo, Blanca",
+      "affiliation": "Universidad Pontificia Comillas",
+      "type": "DataCurator",
+      "orcid": "0000-0001-9005-7577"
+    }
+  ]
+}

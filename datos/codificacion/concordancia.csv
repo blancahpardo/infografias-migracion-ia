@@ -1,0 +1,7 @@
+Plano,Casillas,Acuerdo simple,Kappa de Cohen
+Verbal · 18 recomendaciones × 25 piezas,450,0.978,0.77
+Visual · presencia · T1 original (con error de atribución),175,0.954,0.85
+Visual · peso · T1 original (con error de atribución),175,0.937,0.8
+Visual · presencia · T1 con P04/P17/P20 corregidas,175,0.977,0.92
+Visual · peso · T1 con P04/P17/P20 corregidas,175,0.96,0.87
+Cálculo: script Python sobre las hojas 07/08/08b/09/10 (fórmulas antiguas retiradas).,,,

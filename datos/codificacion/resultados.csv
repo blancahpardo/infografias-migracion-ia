@@ -1,0 +1,16 @@
+Indicador,E1 espontáneo (n=4),E2 bienintencionado (n=4),E3 informado (n=4),Total IA (n=12),Corpus humano (n=13)
+Piezas con al menos un incumplimiento verbal (parcial o total),0,1,1,2,4
+Casillas «parcial» (sobre 18 × n),0,1,1,2,7
+Casillas «incumple»,0,0,0,0,0
+Piezas con algún dominio visual negativo (V1-V6),4,1,1,6,4
+Piezas con un dominio negativo que organiza la composición (peso 2),2,0,0,2,2
+Piezas con V1 (agua / flujo),4,1,1,6,3
+Piezas con V2 (invasión / valla),1,0,0,1,1
+Piezas con V7 (control humanizador),3,3,4,10,10
+Piezas con texto sin incumplimientos pero imagen con dominio negativo,4,0,1,5,1
+Rostros individualizados (suma),23,40,58,121,29
+Siluetas indiferenciadas (suma),26,22,11,59,107
+Piezas sin ninguna figura humana,1,0,0,1,1
+Piezas con incoherencia geográfica,0,0,0,0,1
+Piezas no redactadas en español (M1),1,0,0,1,0
+Piezas que no son infografía (M2),0,0,1,1,0

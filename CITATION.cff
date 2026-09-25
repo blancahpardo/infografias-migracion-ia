@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Si utiliza este conjunto de datos, cítelo como se indica a continuación."
+title: "Lenguaje, migración e inteligencia artificial generativa (II): infografías generadas por cuatro herramientas multimodales (ChatGPT, Gemini, Copilot Designer y Qwen) y corpus de contraste"
+abstract: "Doce infografías sobre la migración en España generadas el 3 de septiembre de 2026 con ChatGPT, Gemini, Copilot Designer y Qwen en tres condiciones de encargo (espontánea, bienintencionada e informada), con capturas de pantalla, registro de condiciones, un corpus de contraste de trece infografías publicadas (solo referencias) y su codificación verbal (patrón de dieciocho recomendaciones) y visual (siete dominios de origen traducidos a descriptores icónicos)."
+type: dataset
+version: 1.0.0
+date-released: "2026-09-25"
+license: CC-BY-4.0
+repository-code: "https://github.com/blancahpardo/infografias-migracion-ia"
+keywords:
+  - migración
+  - infografía
+  - inteligencia artificial generativa
+  - generación de imágenes
+  - metáfora deshumanizadora
+  - análisis multimodal
+  - humanidades digitales
+authors:
+  - family-names: "Hernández Pardo"
+    given-names: "Blanca"
+    affiliation: "Universidad Pontificia Comillas"
+    orcid: "https://orcid.org/0000-0001-9005-7577"
