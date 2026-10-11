@@ -4,7 +4,7 @@
 
 **Infografías generadas por cuatro herramientas multimodales (ChatGPT, Gemini, Copilot Designer y Qwen) sobre la migración en España, corpus de contraste y codificación verbal y visual**
 
-Conjunto de datos que acompaña a la comunicación «Infografías generadas con inteligencia artificial sobre el lenguaje de la migración: producción y evaluación de doce piezas frente a un patrón de dieciocho recomendaciones», presentada al V Congreso Internacional sobre Humanidades Digitales (2026). Reúne doce infografías generadas con IA en tres condiciones de encargo y su codificación frente a un patrón de dieciocho recomendaciones lingüísticas y a siete dominios metafóricos traducidos a descriptores visuales, junto con la codificación de trece infografías publicadas que sirven de contraste.
+Conjunto de datos que acompaña a la comunicación «Pídeselo por favor: el respeto como instrucción en las infografías sobre migración generadas por IA», presentada al V Congreso Internacional sobre Humanidades Digitales (2026). Reúne doce infografías generadas con IA en tres condiciones de encargo y su codificación frente a un patrón de dieciocho recomendaciones lingüísticas y a siete dominios metafóricos traducidos a descriptores visuales, junto con la codificación de trece infografías publicadas que sirven de contraste.
 
 - **Autoría, recogida y curación de datos:** Blanca Hernández Pardo (Universidad Pontificia Comillas)
 - **Fecha de generación:** 3 de septiembre de 2026 (16:11-16:49)
